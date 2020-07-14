@@ -1,20 +1,25 @@
 .main-wrapper{
     display: flex;
+    flex-direction: column;
+    background-color: dimgray;
+}
+
+body{
+    background-color: #323232 ;
 }
 
 section{
-    padding: 3em;
+    padding: 2em;
 }
+
 h1{
     text-align: center;
+    color: thistle;
 }
 
 h2{
     text-align: center;
-}
-
-h3{
-    text-align: center;
+    color: thistle;
 }
 
 div{
