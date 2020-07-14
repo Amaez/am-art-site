@@ -1,3 +1,7 @@
+section{
+    padding: 3em;
+}
+
 h1{
     text-align: center;
 }
@@ -8,4 +12,9 @@ h2{
 
 h3{
     text-align: center;
+}
+
+.persona-info img{
+    width: 500px;
+    height: 300px;
 }
