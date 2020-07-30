@@ -1,3 +1,13 @@
 body {
     background-color: #252525;
 }
+
+.fa-twitter{
+    color: white;
+    margin-right: 20px;
+}
+
+.fa-trello{
+    color: white;
+    margin-right: 20px;
+}
