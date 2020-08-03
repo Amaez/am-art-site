@@ -2,6 +2,18 @@ body {
     background-color: #252525;
 }
 
+h1{
+    color: white;
+    text-align: center;
+    font-family: Copperplate;
+    margin-top: 30px;
+}
+
+.navbar{
+    font-family: Copperplate;
+}
+
+
 .fa-twitter{
     color: white;
     margin-right: 20px;
