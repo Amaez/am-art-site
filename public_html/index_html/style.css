@@ -11,6 +11,14 @@ body{
 
 }
 
+hr{
+    background: dimgray;
+}
+
+label{
+    color: dimgray;
+}
+
 ul.nav li a, ul.nav li a:visited {
     color: #fff !important;
 }
@@ -70,3 +78,10 @@ p{
     background-color: #0c161b;
 }
 
+.formParagraph{
+    color: dimgray;
+}
+
+input{
+    margin-bottom: 15px;
+}
