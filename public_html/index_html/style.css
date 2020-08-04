@@ -11,6 +11,10 @@ body{
 
 }
 
+.card-body{
+    color: white;
+}
+
 hr{
     background: dimgray;
 }
