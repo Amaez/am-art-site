@@ -1,5 +1,13 @@
-body {
+body{
     background-color: #252525;
+}
+
+.main-jumbotron{
+    height: 80vh;
+    background-image: url('images/jumbotron_small.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
 }
 
 h1{
@@ -23,3 +31,8 @@ h1{
     color: white;
     margin-right: 20px;
 }
+
+p{
+    color: white;
+}
+
