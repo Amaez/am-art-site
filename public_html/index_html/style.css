@@ -1,5 +1,5 @@
 body{
-    background-color: #252525;
+    background-color: #0c161b;
 }
 
 .jumbotron{
@@ -20,6 +20,8 @@ h1{
 
 .navbar{
     font-family: Copperplate;
+    color: white;
+    margin-top: 3%;
 }
 
 
@@ -38,10 +40,10 @@ p{
 }
 
 .introductionDiv{
-    background-color: #252525;
+    background-color: #0c161b;
 }
 
 .card{
-    background-color: #252525;
+    background-color: #0c161b;
 }
 
