@@ -11,6 +11,20 @@ body{
 
 }
 
+ul.nav li a, ul.nav li a:visited {
+    color: #fff !important;
+}
+ul.nav li a:hover, ul.nav li a:active {
+    color: #fff !important;
+}
+ul.nav li.active a {
+    color: #fff !important;
+}
+
+.card-title{
+    color: white;
+}
+
 h1{
     color: white;
     text-align: center;
@@ -23,21 +37,25 @@ h1{
     font-family: Copperplate;
     color: white;
     margin-top: 3%;
+    margin-right: 10vh;
+    margin-left: 10vh;
 }
 
 .introductionParagraph{
     margin-top: 20px;
+    line-height: 4px;
 }
 
 
 .fa-twitter{
     color: white;
-    margin-right: 20px;
+    margin-right: 70px;
+    justify-content: center;
 }
 
 .fa-trello{
     color: white;
-    margin-right: 20px;
+    justify-content: center;
 }
 
 p{
