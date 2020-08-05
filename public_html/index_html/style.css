@@ -4,7 +4,7 @@ body{
 
 .jumbotron{
     height: 80vh;
-    background-image: url('images/JUMBO_2.jpg');
+    background-image: url('images/jumbo_2.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -58,7 +58,7 @@ h1{
     margin-left: 10vh;
 }
 
-.introductionParagraph{
+.introduction-paragraph{
     margin-top: 20px;
     line-height: 4px;
 }
@@ -79,7 +79,7 @@ p{
     color: white;
 }
 
-.introductionDiv{
+.introduction-div{
     background-color: #0c161b;
 }
 
@@ -90,7 +90,7 @@ p{
     line-height: 5vh;
 }
 
-.formParagraph{
+.form-paragraph{
     color: dimgray;
 }
 
